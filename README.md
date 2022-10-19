@@ -1,6 +1,6 @@
 # PrimeFlix
 
-![PrimeFlix](https://user-images.githubusercontent.com/105875989/196570990-daa33d40-7f0c-48ac-b359-a080de626d95.gif)
+![PrimeFlix](https://user-images.githubusercontent.com/105875989/196571717-b7716e80-fc93-4eba-b3cc-f9bcd9530437.gif)
 
 Site para acompanhar os filmes que estão em cartaz, é possível adiciona-los a lista de favoritos e também buscar pelo trailer no Youtube.
 
