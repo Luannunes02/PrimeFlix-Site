@@ -8,6 +8,7 @@
 <h2><strong> 📝 Descrição:</strong></h2>    
 
 Site para acompanhar os filmes que estão em cartaz, é possível adiciona-los a lista de favoritos e também buscar pelo trailer no Youtube.
+<strong>Acesse o site e aproveite: https://primeflix-zeta.vercel.app </strong>
 <br>
 <br>
 <h2><strong>🚀 Tecnologias usadas:</strong></h2>   
